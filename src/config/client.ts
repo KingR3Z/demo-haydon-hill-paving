@@ -45,12 +45,12 @@ export const client = {
     { before: "/images/drive-before.jpg", after: "/images/drive-after.jpg", label: "Driveway" },
   ] as { before: string; after: string; label: string }[],
   reviews: [
-    { name: "Sarah M.", rating: 5, text: "Absolutely fantastic work. Professional from start to finish. Couldn't recommend more highly.", date: "2 weeks ago", badge: "Local Guide" },
-    { name: "James T.", rating: 5, text: "Brilliant job. They understood exactly what we wanted and delivered beyond expectations.", date: "1 month ago" },
-    { name: "Karen D.", rating: 5, text: "Best in the area. Transformed our garden into something we're genuinely proud of.", date: "3 weeks ago", badge: "Local Guide" },
-    { name: "David R.", rating: 5, text: "From consultation to completion, everything was handled professionally. Fair pricing throughout.", date: "2 months ago" },
-    { name: "Emma W.", rating: 5, text: "Beautiful results. They delivered exactly what we asked for with a stunning finish.", date: "1 month ago" },
-    { name: "Paul H.", rating: 5, text: "Outstanding quality. Neighbours keep stopping to compliment the work. Highly recommended.", date: "3 weeks ago", badge: "Local Guide" },
+    { name: "Ian Wilkinson", rating: 5, text: "Cannot recommend Hayden Hill highly enough. We had major work done to our back garden and a complete new block paved drive and not one single problem from start to finish. From the time Warren first came out to completion, communications have been absolutely excellent and I have never come across a group of workers that have worked so hard, been so meticulous with every aspect of the job in hand, so tidy and just thoroughly pleasant. An absolute pleasure to have all of them working here.", date: "a year ago" },
+    { name: "Jamie Gibson", rating: 5, text: "Warren and his team were quick, professional and hard working in not great weather to make sure the job was done. Helpful and attentive throughout - would definitely recommend", date: "2 years ago" },
+    { name: "Colin Wreglesworth", rating: 5, text: "Great service. Job executed efficiently and on time. Would use again", date: "2 years ago", badge: "Local Guide" },
+    { name: "Mark Taylor", rating: 5, text: "Just had a drive and patio layed, very professional and a great job ,would highly recommend this company.", date: "2 years ago" },
+    { name: "Faizaan Mahmood", rating: 5, text: "Big thanks to Waz and his team, completely transformed my garden very professional always on time and got the job done.  Prices are very fair and the service couldn’t be any better the best in town and Bedgroves favourite!  Will highly recommend", date: "2 years ago" },
+    { name: "John Considine", rating: 5, text: "Warren and his great team is lads did a superb job on installing a new driveway and extending a current parking area, top marks, couldn't be more pleased with the fantastic job you've done. Don't use anyone else,  I HIGHLY RECOMMEND.", date: "2 years ago", badge: "Local Guide" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
   seo: {
     title: "Haydon Hill Paving Ltd | Professional Paving in Aylesbury",
